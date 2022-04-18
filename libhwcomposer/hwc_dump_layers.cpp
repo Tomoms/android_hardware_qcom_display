@@ -36,6 +36,7 @@
 #include <cutils/log.h>
 #include <sys/stat.h>
 #include <comptype.h>
+#include <SkStream.h>
 #ifdef QTI_BSP
 #include <SkBitmap.h>
 #include <SkImageEncoder.h>
